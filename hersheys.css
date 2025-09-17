@@ -1,5 +1,5 @@
 @font-face{
-  font-family:'Hershey';
+  font-family:'Hershey Futura';
   src:
     url('Hershey-Noailles-Futura-Duplex-Regular.woff2') format('woff2'),
     url('Hershey-Noailles-Futura-Duplex-Regular.woff') format('woff');
@@ -8,7 +8,7 @@
   font-display:swap;
 }
 @font-face{
-  font-family:'Hershey';
+  font-family:'Hershey Futura Bold';
   src:
     url('Hershey-Noailles-Futura-Duplex-Bold.woff2') format('woff2'),
     url('Hershey-Noailles-Futura-Duplex-Bold.woff') format('woff');
